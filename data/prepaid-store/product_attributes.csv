@@ -1,4 +1,9 @@
 attribute_set,attribute_code,frontend_label,frontend_input,option,default,default_value_text,default_value_yesno,default_value_date,default_value_textarea,is_global,is_filterable,is_filterable_in_search,is_searchable,is_visible_in_advanced_search,is_comparable,is_used_for_promo_rules,is_html_allowed_on_front,is_visible_on_front,is_required,is_unique,used_in_product_listing,used_for_sort_by,position,additional_data
+Phone,tmo_memory,Memory,select,"64GB
+128GB
+256GB
+512GB
+1TB",,,,,,1,1,1,1,1,1,1,0,0,0,0,0,0,,"{""swatch_input_type"":""text"",""update_product_preview_image"":""1"",""use_product_image_for_swatch"":""0""}"
 Phone,tmo_color,Color,select,"Black|#1d1d1d
 Blue|#286785
 Burgundy|#64464e
@@ -18,8 +23,4 @@ Sierra Blue|#adc6dc
 Silver|#f1f3ee
 Starlight|#e7e1dc
 White|#f9f9f9",,,,,,1,1,1,1,1,1,1,0,0,0,0,0,0,,"{""swatch_input_type"":""visual"",""update_product_preview_image"":""0"",""use_product_image_for_swatch"":""0""}"
-Phone,tmo_memory,Memory,select,"64GB
-128GB
-256GB
-512GB
-1TB",,,,,,1,1,1,1,1,1,1,0,0,0,0,0,0,,"{""swatch_input_type"":""text"",""update_product_preview_image"":""1"",""use_product_image_for_swatch"":""0""}"
+,,,,,,,,,,,,,,,,,,,,,,,,
