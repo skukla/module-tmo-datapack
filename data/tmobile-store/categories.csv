@@ -1,0 +1,7 @@
+name,url_key,path,active,is_anchor,include_in_menu,position
+Phones,phones,,1,1,1,1
+Accessories,accessories,,1,1,1,2
+Gift Cards,gift-cards,,1,1,1,3
+Plans,plans,,1,1,1,4
+Streaming,streaming,,1,1,1,5
+Internet Deals,internet-deals,,1,1,1,6

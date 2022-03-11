@@ -4,14 +4,14 @@
 			"header": {
 				"logo_src": {
 					"store_view": {
-						"default": "stores/hint-logo.png"
+						"default": "stores/prepaid-logo.png"
 					}
 				}
 			},
 			"email": {
 				"logo": {
 					"store_view": {
-						"default": "stores/hint-logo.png"
+						"default": "stores/prepaid-logo.png"
 					}
 				}
 			},
@@ -28,16 +28,11 @@
 				}
 			}
 		},
-		"magentoese_autofill": {
-			"general": {
-				"enable_autofill": "1"
-			}
-		},
 		"web": {
 			"default": {
 				"cms_home_page": {
 					"store_view": {
-						"default": "hint-home"
+						"default": "tmobile-home"
 					}
 				}
 			}

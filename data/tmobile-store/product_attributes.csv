@@ -23,3 +23,14 @@ Phone,tmo_memory,Memory,select,"64GB
 256GB
 512GB
 1TB",,,,,,1,1,1,1,1,1,1,0,0,0,0,0,0,,"{""swatch_input_type"":""text"",""update_product_preview_image"":""1"",""use_product_image_for_swatch"":""0""}"
+"Default
+Phone",tmo_manufacturer,Manufacturer,select,"Apple
+Samsung
+T-Mobile",,,,,,1,1,1,1,1,1,1,0,1,0,0,0,0,,
+"Default
+Phone",tmo_product_family,Product Family,select,"Accessories
+Bundles
+Gift Cards
+Phones
+Plans
+Services",,,,,,1,0,0,1,1,1,1,0,0,0,0,0,0,,

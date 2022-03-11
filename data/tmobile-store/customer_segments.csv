@@ -1,0 +1,4 @@
+"name","site_code","description","is_active","apply_to","conditions_serialized"
+"Prospects","base",,"1","2","{""type"":""Magento\\CustomerSegment\\Model\\Segment\\Condition\\Combine\\Root"",""attribute"":null,""operator"":null,""value"":true,""is_value_processed"":null,""aggregator"":""all""}"
+"Known Customers","base",,"1","1","{""type"":""Magento\\CustomerSegment\\Model\\Segment\\Condition\\Combine\\Root"",""attribute"":null,""operator"":null,""value"":true,""is_value_processed"":null,""aggregator"":""all""}"
+"Prospects and Known Customers","base",,"1","0","{""type"":""Magento\\CustomerSegment\\Model\\Segment\\Condition\\Combine\\Root"",""attribute"":null,""operator"":null,""value"":true,""is_value_processed"":null,""aggregator"":""all""}"

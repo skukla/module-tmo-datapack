@@ -1,6 +1,0 @@
-name,value
-site_code,base
-store_code,tmo_prepaid_store
-store_view_code,tmo_prepaid_en
-product_image_import_directory,
-product_validation_strategy,validation-stop-on-errors
