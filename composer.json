@@ -1,5 +1,5 @@
 {
-	"name": "customdemo/tmobile",
+	"name": "customdemo/tmobile-data-pack",
 	"version": "1.0.0",
 	"description": "N/A",
 	"type": "magento2-module",
@@ -15,7 +15,7 @@
 			"registration.php"
 		],
 		"psr-4": {
-			"CustomDemo\\tmobile\\": ""
+			"CustomDemo\\TmobileDataPack\\": ""
 		}
 	}
 }
