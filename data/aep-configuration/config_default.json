@@ -15,15 +15,15 @@
 				"prod_suite": "",
 				"stage_suite": "",
 				"dev_suite": ""
-			},
-			"aepdcsapi": {
-				"aepdcs": "https://dcs.adobedc.net/collection/b786d1b2706b7a4a2269125824e2b941bfbc13501cb3a875bc5ffa64e097526c",
-				"datasetid": "5f0ea2cb3535b41915cf214f",
-				"schemaid": "93ee928c3766396daccb4145ef904429acb288f408bbbd94",
-				"tenantid": "salesvelocity",
-				"sandboxname": "kukla",
-				"imagecacheurl": "https://mag201.adobedemo.com/media/catalog/product/cache/9bf21eb9aec22f8cd19654ce3473edb1"
 			}
+		},
+		"aep_dcs_api_config": {
+			"aepdcs": "https://dcs.adobedc.net/collection/b786d1b2706b7a4a2269125824e2b941bfbc13501cb3a875bc5ffa64e097526c",
+			"datasetid": "5f0ea2cb3535b41915cf214f",
+			"schemaid": "93ee928c3766396daccb4145ef904429acb288f408bbbd94",
+			"tenantid": "salesvelocity",
+			"sandboxname": "kukla",
+			"imagecacheurl": "https://mag201.adobedemo.com/media/catalog/product/cache/9bf21eb9aec22f8cd19654ce3473edb1"
 		},
 		"launch_general_config": {
 			"general": {
