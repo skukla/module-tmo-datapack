@@ -1,0 +1,35 @@
+{
+	"configuration": {
+		"launch_api_config": {
+			"credentials": {
+				"adobe_org_id": "E8475990589B24A90A495DDD@AdobeOrg",
+				"client_id": "f77e42e23d7e4844abd05e03dd3111b7",
+				"client_secret": "",
+				"jwt": "eyJhbGciOiJSUzI1NiJ9.eyJleHAiOjE2NDY5MjM0MDAsImlzcyI6IkU4NDc1OTkwNTg5QjI0QTkwQTQ5NUREREBBZG9iZU9yZyIsInN1YiI6IjJGQkQzOTQ1NUUzQUIyQTMwQTQ5NUZERUB0ZWNoYWNjdC5hZG9iZS5jb20iLCJhdWQiOiJodHRwczovL2ltcy1uYTEuYWRvYmVsb2dpbi5jb20vYy9mNzdlNDJlMjNkN2U0ODQ0YWJkMDVlMDNkZDMxMTFiNyIsImh0dHBzOi8vaW1zLW5hMS5hZG9iZWxvZ2luLmNvbS9zL2VudF9kYXRhc2VydmljZXNfc2RrIjp0cnVlfQ.G0AQ-u-DFn5cqhjtCSUeu2Vvz3Z23X6Eepfroz0cSuVtL6UJWyFzlIYaX8YfSEswXu_Y7NadsGW495HN1WRfiX8cZPfRBq6ZlpzcwhncpyUGyGs5ByV07LgJ8zZYJYkDQepDfRVPqnkct9wAm666QPGZ92UPi3hyw0hyjmtNL8mLC_r0fXYnEHdwI8N_SVMBJW8gothqOpAIL_0WmFXjGxm--nJdmBgwcNsBep95lX6ELRcN9ODv43rf5bdQgZ-sXg4cTP-aAYQ-21wlA9VAo1AL6ff6QYSOdVxda6URKrGeAf5P3-ekeyH9XZHf7BW-oFPU2CN9JygThAdVLT6F6A"
+			},
+			"launch": {
+				"property_name": "pmital - T-Mobile-POC2-01032022 (web)",
+				"datalayer_name": "AppEventData"
+			},
+			"adobe_analytics": {
+				"prod_suite": "",
+				"stage_suite": "",
+				"dev_suite": ""
+			},
+			"aepdcsapi": {
+				"aepdcs": "https://dcs.adobedc.net/collection/b786d1b2706b7a4a2269125824e2b941bfbc13501cb3a875bc5ffa64e097526c",
+				"datasetid": "5f0ea2cb3535b41915cf214f",
+				"schemaid": "93ee928c3766396daccb4145ef904429acb288f408bbbd94",
+				"tenantid": "salesvelocity",
+				"sandboxname": "kukla",
+				"imagecacheurl": "https://mag201.adobedemo.com/media/catalog/product/cache/9bf21eb9aec22f8cd19654ce3473edb1"
+			}
+		},
+		"launch_general_config": {
+			"general": {
+				"enable": "1",
+				"launch_script_url": "https://assets.adobedtm.com/082b4ce8e11e/37142962f377/launch-dfa04cbcc5a8-development.min.js"
+			}
+		}
+	}
+}
