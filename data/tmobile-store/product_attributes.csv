@@ -64,4 +64,5 @@ Up to 4K UHD streaming",,,,,,1,0,0,0,0,1,1,0,1,0,0,0,0,,
 Plans,tmo_extended_range_fg,Extended Range 5G,boolean,,,,,,,1,0,0,0,0,1,1,0,1,0,0,0,0,,
 Plans,tmo_extended_capacity_fg,Extended Capacity 5G,boolean,,,,,,,1,0,0,0,0,1,1,0,1,0,0,0,0,,
 Plans,tmo_plan_tier,Plan Tier,select,"Essentials Tier
-Magenta® Tier",,,,,,1,0,0,0,0,1,1,0,0,0,0,0,0,,
+Magenta® Tier
+Magenta® Max Tier",,,,,,1,0,0,0,0,1,1,0,0,0,0,0,0,,
