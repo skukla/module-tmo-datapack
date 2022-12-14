@@ -1,0 +1,2 @@
+website,email,firstname,lastname,password,street,city,region,country_id,postcode,telephone,add_to_autofill
+base,steve@example.com,Steve,Kukla,Password1,4346 Parkway Street,San Diego,California,US,92103,(555) 229-3326,Y

@@ -1,0 +1,7 @@
+sku,frequency_unit,frequency,one_time_purchase,adjustment_price,installment_price,length
+youtube-tv-subscription,month,1,N,,59.9900,
+youtube-tv-subscription,month,6,N,,299.9900,
+philo-subscription,month,1,N,,15.0000,
+philo-subscription,month,6,N,,89.9900,
+amazon-prime-video-subscription,month,1,N,,13.9900,
+amazon-prime-video-subscription,month,6,N,,83.9400,
